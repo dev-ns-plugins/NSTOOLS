@@ -1,0 +1,11 @@
+{
+  "left_delay": "1",
+  "right_delay": "1",
+  "f_delay": "1",
+  "failsafe": false,
+  "auto_save": true,
+  "auto_hunt": false,
+  "hunt_radius": "20",
+  "hunt_speed_ms": "10",
+  "ui_alpha": "100"
+}

@@ -1,0 +1,25 @@
+NS Tools V1 - Hotkeys Guide (dsc.gg/nsplugins)
+
+ATENCAO: Execute o app como Administrador para garantir que os atalhos globais funcionem mesmo minimizado e em jogos em tela cheia.
+
+Hotkeys principais
+- Pause/Resume: Pause
+- CTRL Hold (liga/desliga): Insert
+- Left Clicker (liga/desliga): Home
+- Right Clicker (liga/desliga): Page Up
+- Auto Hunt (liga/desliga): End
+- F1..F10 (skills automáticas): F1, F2, ...
+- Abrir Options: Alt+O
+- Parar/Sair: Alt+S   ou   Ctrl+Alt+S
+
+Dicas
+- Ajuste os delays no Options:
+  - Left (ms): intervalo do clique esquerdo automático
+  - Right (ms): intervalo do clique direito automático
+  - F Keys (ms): intervalo entre disparos das skills (F1..F10)
+- Para priorizar skills, mantemos uma pressao curta da tecla (hold ~30ms). Se seu jogo perder ações, aumente o F Keys (ms) para 120–200.
+- Transparência: o slider no Options aplica a ambos (HUD e Options).
+- Emergência: com Failsafe ON no Options, mover o mouse para um canto da tela interrompe o pyautogui.
+
+Suporte e comunidade
+- Discord: https://dsc.gg/nsplugins
