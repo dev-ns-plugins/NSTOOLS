@@ -1,0 +1,10 @@
+{
+  "left_delay": "22",
+  "right_delay": "66",
+  "f_delay": "33",
+  "failsafe": false,
+  "auto_save": true,
+  "ui_alpha": "100",
+  "loop_playback": false,
+  "playback_speed": 4.0
+}
